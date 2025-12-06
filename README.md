@@ -3,6 +3,7 @@
 Axial Neural Networks for Dimension-Free Foundation Models **(NeurIPS 2025 Spotlight Presentation)**
 
 This repo only contains the networks used in the paper.
+The axial version of Vision Transformer will be updated within a few months.
 
 ## Requirements
 ```
